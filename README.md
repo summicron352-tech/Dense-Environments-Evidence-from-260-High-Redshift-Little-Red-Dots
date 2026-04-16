@@ -6,6 +6,7 @@ Xin Tan — Independent Researcher, IAIP
 
 [![MNRAS Submission](https://img.shields.io/badge/MNRAS-submitted-blue)](https://academic.oup.com/mnras)
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-green)](https://arxiv.org)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19587085-blue)](https://doi.org/10.5281/zenodo.19587085)
 
 ---
 
@@ -106,6 +107,12 @@ where deeper potential wells produce stronger intrinsic spectral shifts and more
 ```
 
 ---
+
+## 📦 Zenodo Archive
+
+**DOI:** [10.5281/zenodo.19587085](https://doi.org/10.5281/zenodo.19587085)
+
+This GitHub repository is archived on Zenodo to ensure a persistent, citable snapshot.
 
 ## 📜 License
 
