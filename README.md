@@ -2,7 +2,7 @@
 
 **Evidence from 260 High-Redshift Little Red Dots**
 
-Xin Tan — Independent Researcher, IAIP
+Tan Xin — Independent Researcher, IAIP
 
 [![MNRAS Submission](https://img.shields.io/badge/MNRAS-submitted-blue)](https://academic.oup.com/mnras)
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-green)](https://arxiv.org)
@@ -97,7 +97,7 @@ where deeper potential wells produce stronger intrinsic spectral shifts and more
 
 ```bibtex
 @article{Tan2026LRD,
-  author = {Xin Tan},
+  author = {Tan Xin},
   title = {Density-Dependent Spectral Distortion in Extreme Dense Environments:
            Evidence from 260 High-Redshift Little Red Dots},
   journal = {The Astrophysical Journal Letters},
